@@ -28,7 +28,7 @@ This project uses the following Rust crates:
    ```bash
    cargo build --release
    ```
-   The compiled binary will be located in ```target/debug/devtimer```
+   The compiled binary will be located in ```target/release/devtimer```
 
 ## Usage
 
